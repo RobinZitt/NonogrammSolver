@@ -1,0 +1,10 @@
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\bin\Debug\Nonogramm.exe.config
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\bin\Debug\Nonogramm.exe
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\bin\Debug\Nonogramm.pdb
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\obj\Debug\Nonogramm.csproj.AssemblyReference.cache
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\obj\Debug\Nonogramm.Nonogramm.Form2.resources
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\obj\Debug\Nonogramm.Properties.Resources.resources
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\obj\Debug\Nonogramm.csproj.GenerateResource.cache
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\obj\Debug\Nonogramm.csproj.CoreCompileInputs.cache
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\obj\Debug\Nonogramm.exe
+C:\Users\Robin\RiderProjects\Nonogramm\Nonogramm\obj\Debug\Nonogramm.pdb
